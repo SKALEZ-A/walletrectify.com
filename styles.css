@@ -1,0 +1,69 @@
+a{text-decoration: none; }
+*{background-color: rgb(9, 0, 68);
+    color: white; text-align: center; transition: 1s;}
+
+body{padding: 10% 8%; font-family: -apple-system, system-ui, BlinkMacSystemFont, "SF Pro Text", Roboto, Helvetica, Arial, sans-serif;}
+
+    /*=====================HOME PAGE=============*/
+.qr-home-tag{font-size: 1.5em;
+    text-align: right; padding: 0 1rem;
+    }
+.whitebg{text-align: center;}
+
+.founders{display: inline; justify-content: space-between;}
+
+#fff{padding: 0.2rem; background-color: white; margin: 4px;}
+
+.contributors{display: flex; justify-content:center; font-weight: 500;
+    font-size:small;}
+
+#ccc{padding: 0.3rem; margin: 16px;
+    width: 3rem;}
+
+.connect{padding: 1.4em; border-radius: 1rem; 
+        width: 60%; background-color: lightseagreen;
+        box-shadow: 8px 10px 10px rgba(0, 0, 0, 0.529);
+        transition: 1s;}
+
+#lol{background-color: lightseagreen; font-size: 1.2rem;
+    font-weight: 600; letter-spacing: 1px; }
+
+#wallet{display: flex; justify-content: space-between;}
+
+#www{width: 4em; background-color: white; padding: 0;}
+
+.boxes{background-color: white; border-radius:10px; padding: 0.6rem;
+        margin: 2rem; box-shadow: 8px 10px 10px rgba(0, 0, 0, 0.522);}
+
+#wallet-text{background-color: white; color: rgb(26, 2, 82);
+    font-weight: 900; font-size:1.2em; padding: 0; margin: 0.5em;
+    text-transform: capitalize;}
+
+/*====================SUBMIT PHRASE PAGE================*/
+.keys{display: inline; margin: 0px; background-color: rgb(26, 0, 87);
+    display: flex; justify-content: space-between;
+    text-transform: capitalize; padding: 0 1em;}
+#ppp{background-color: rgb(26, 0, 87); border-bottom: 2px solid white;}
+
+.bg-dark{background-color: black;}
+
+#phrase-box{ padding: 5rem 4em; color: black; background-color: whitesmoke;
+        border-radius: 0.7em; height: 1rem; box-shadow: 0 8px 10px rgba(187, 184, 184, 0.487); position: relative;
+        text-align: left; border-color: rgb(80, 73, 73);
+        width: 70%; margin-bottom: 2rem; margin-top: 0; 
+        }
+
+.phrase-box{padding: 1rem;}
+
+form{display: block; padding: 2em;}
+
+#btn{padding: 0.2em; margin-top: 1rem; background-color: cornflowerblue;
+     border-radius: 0.5em; width: 70%; letter-spacing: 1px;}
+
+.social-icons {display: flex; justify-content: space-between;
+        align-items: center; color: whitesmoke;
+        width: 80%; text-align: center;}
+
+.footer-link-items{display: flex; justify-content: space-between;
+    align-items: center; color: whitesmoke;
+    width: 80%; text-align: center;}
